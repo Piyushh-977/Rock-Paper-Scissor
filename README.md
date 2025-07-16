@@ -1,3 +1,4 @@
 # Rock-Paper-Scissor
 This is a beginner level project for understanding of javascript
-The link to my site is https://piyushh-977.github.io/Rock-Paper-Scissor/
+<br>
+The link to my site is   https://piyushh-977.github.io/Rock-Paper-Scissor/
